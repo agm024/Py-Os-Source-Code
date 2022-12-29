@@ -1,10 +1,10 @@
 # Hi!
-This repl is an Oparative System called Py OS. It's called Py OS because, as you can guess, it was developed with python.
+This Project is an Oparative System called Py OS. It's called Py OS because, as you can guess, it was developed with python.
 
 # Description :
 **Py OS has 85% no errors in finished apps.** Please tell me if you find an error in an app please tell me how you found it.
 
-**Note :** After using Firefox you'll need to refresh the tab in order to use the OS again. I've been left to assume this is a bug with Replit, not Py OS
+**Note :** After using Firefox you'll need to refresh the tab in order to use the OS again.
 
 **Need help?** A few things you should know before using Py OS :
 - The default password is "a"
@@ -23,8 +23,6 @@ This repl is an Oparative System called Py OS. It's called Py OS because, as you
 
 **Yet to be added :**
 - Saving
-
-> **Have ideas?** Why not comment them and have them added to the Repl
 
 
 > **Sugestions and bugs :** Feel free to comment any sugestions or in the comments so I can add them to Py OS in the future. If you found a bug please tell me
