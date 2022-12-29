@@ -1,4 +1,4 @@
-# Hiya!
+# Hi!
 This repl is an Oparative System called Py OS. It's called Py OS because, as you can guess, it was developed with python.
 
 # Discription :
