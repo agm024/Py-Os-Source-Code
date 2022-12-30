@@ -25,4 +25,4 @@ This Project is an Oparative System called Py OS. It's called Py OS because, as 
 - Saving
 
 
-> **Sugestions and bugs :** Feel free to comment any sugestions or in the comments so I can add them to Py OS in the future. If you found a bug please tell me
+> **Sugestions and bugs :** Feel free to tell any sugestions on aarushdarne@gmail.com so I can add them to Py OS in the future. If you found a bug please tell me
