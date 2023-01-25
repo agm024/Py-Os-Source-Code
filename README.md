@@ -13,7 +13,6 @@ This Project is an Oparative System called Py OS. It's called Py OS because, as 
 
 **Apps :**
 - Firefox
-- Chrome
 - Wikipedia
 - Python
 - Terminal
