@@ -1,5 +1,5 @@
 # Py-OS
-This Project is an Operative System called as Py OS. It's called Py OS because, as you can guess, it was developed with python.
+This Project is an Operative System called as Py-OS. It's called Py OS because, as you can guess, it was developed with python.
 
 # Description :
 **Py OS has 85% no errors in finished apps.** Please tell me if you find an error in an app please tell me how you found it.
