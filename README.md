@@ -1,4 +1,4 @@
-#Py-OS
+# Py-OS
 This Project is an Operative System called as Py OS. It's called Py OS because, as you can guess, it was developed with python.
 
 # Description :
